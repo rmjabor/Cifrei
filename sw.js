@@ -3,7 +3,7 @@ self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open('cifrei-cache').then(function(cache) {
       return cache.addAll([
-        '/index_v12_pwa.html',
+        '/index.html',
         '/manifest.json'
       ]);
     })
