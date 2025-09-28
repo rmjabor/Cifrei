@@ -2,7 +2,7 @@
 {
   "name": "Cifrei",
   "short_name": "Cifrei",
-  "start_url": "index_v12_pwa.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f7f7f7",
   "theme_color": "#f7f7f7",
